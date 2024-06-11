@@ -1,0 +1,12 @@
+[submodule "lib/ESPAsyncTCP"]
+	path = lib/ESPAsyncTCP
+    url = https://github.com/me-no-dev/ESPAsyncTCP
+[submodule "lib/FSBrowserNG"]
+    path = lib/FSBrowserNG
+    url = https://github.com/gmag11/FSBrowserNG
+[submodule "lib/ESPAsyncWebServer"]
+    path = lib/ESPAsyncWebServer
+    url = https://github.com/me-no-dev/ESPAsyncWebServer
+[submodule "lib/NtpClient"]
+    path = lib/NtpClient
+    url = https://github.com/gmag11/NtpClient
